@@ -1,0 +1,12 @@
+# исходные данные (записи о пациентах) в репозиторий не попадают
+data/raw/*.csv
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
